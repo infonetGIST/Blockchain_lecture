@@ -86,7 +86,7 @@ References      :   [1] Daniel van Flymen, "Learn Blockchain by Building One,"
 
                     [3] Heung-No Lee, "Lecture Note on Python Programming of Blockchain," https://infonet.gist.ac.kr. 
 
-                    [4] Heung-No Lee, Source Code of Python Programming of Blockchain," https://infonet.gist.ac.kr. 
+                    [4] Heung-No Lee, Source Code of Python Programming of Blockchain," https://github.com/infonetGIST/Blockchain_lecture. 
 
   
 ''' 
